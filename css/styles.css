@@ -1,3 +1,66 @@
 /*
 Aqui escribe tu codigo de CSS.
 */
+html, body {
+height: 100%;
+}
+html{
+display: table;
+margin: auto;
+}
+body {
+display: table-cell;
+vertical-align: middle;
+}
+div {
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 50px;
+    display: inline-table;
+    text-align:center;
+    border-style: outset;
+    border-color: #FFF;
+}
+a{
+color: #000000;
+}
+
+#hhh{
+display: none;
+background-color: #c90101;
+
+}
+#hhh2{
+display: none;
+background-color: #c20dd8;
+}
+#hhh3{
+display: none;
+background-color: #00c8e5;
+}
+#hhh4{
+display: none;
+background-color: #00dd2f;
+}
+#hhh5{
+display: none;
+background-color: #f65314;
+}
+#hhh6{
+display: none;
+background-color: #003366;
+}
+p {line-height: 100px;
+font-family: "Times New Roman", Times, serif;
+}
+#hhh7{
+display: none;
+background-color:#b81133;
+    height: 20px;
+    width: 1190px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 50px;
+}
+body {
+background-color: #000000;}

@@ -3,6 +3,17 @@
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+$(document).ready(function(){
+  $("div").hover(
+    function(){
+    $(this).addClass("active");
+    },
+    function(){
+    $(this).removeClass("active");    
+    }
+  );
+
+});
 
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
