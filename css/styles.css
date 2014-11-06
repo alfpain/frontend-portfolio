@@ -29,7 +29,6 @@ color: #000000;
 #hhh{
 display: none;
 background-color: #c90101;
-
 }
 #hhh2{
 display: none;
@@ -64,3 +63,26 @@ background-color:#b81133;
 }
 body {
 background-color: #000000;}
+
+#name2 {
+margin: 30px 0px -60px 500px;
+color:#ffffff;
+text-shadow: 5px 5px 5px #FF0000;
+height: 30px;
+    width: 650px;
+    border-radius: 10px;
+    display: inline-table;
+    text-align:center;
+    border-style: outset;
+    border-color: #FFF;
+}
+img {
+margin: 30px 0px 0px 10px;
+}
+.one {
+    -webkit-box-shadow: 0 0 8px #FFD700;
+    -moz-box-shadow: 0 0 8px #FFD700;
+    box-shadow: 0 0 8px #FFD700;
+    cursor:pointer;
+}
+}
