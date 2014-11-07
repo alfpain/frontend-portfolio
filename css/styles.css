@@ -26,34 +26,34 @@ a{
 color: #000000;
 }
 
-#hhh{
+#cuadro{
 display: none;
 background-color: #c90101;
 }
-#hhh2{
+#cuadro2{
 display: none;
 background-color: #c20dd8;
 }
-#hhh3{
+#cuadro3{
 display: none;
 background-color: #00c8e5;
 }
-#hhh4{
+#cuadro4{
 display: none;
 background-color: #00dd2f;
 }
-#hhh5{
+#cuadro5{
 display: none;
 background-color: #f65314;
 }
-#hhh6{
+#cuadro6{
 display: none;
 background-color: #003366;
 }
 p {line-height: 100px;
 font-family: "Times New Roman", Times, serif;
 }
-#hhh7{
+#cuadro7{
 display: none;
 background-color:#b81133;
     height: 20px;

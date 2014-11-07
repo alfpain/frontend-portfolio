@@ -3,53 +3,53 @@ $(document).ready(function(){
     $("div").fadeTo("fast",0.8);
     $("img").fadeTo("fast",0.8);
     $("p").fadeTo("fast",0.8);
-    $("#hhh").mouseenter(function() {
-        $("#hhh").fadeTo("fast",1);
+    $("#cuadro").mouseenter(function() {
+        $("#cuadro").fadeTo("fast",1);
         });
-    $("#hhh").mouseleave(function(){
-        $("#hhh").fadeTo("fast",0.5)
+    $("#cuadro").mouseleave(function(){
+        $("#cuadro").fadeTo("fast",0.5)
         
         })
-    $("#hhh2").mouseenter(function() {
-    $("#hhh2").fadeTo("fast",1);
+    $("#cuadro2").mouseenter(function() {
+    $("#cuadro2").fadeTo("fast",1);
         });
-    $("#hhh2").mouseleave(function(){
-        $("#hhh2").fadeTo("fast",0.5)
+    $("#cuadro2").mouseleave(function(){
+        $("#cuadro2").fadeTo("fast",0.5)
         
         })
-    $("#hhh3").mouseenter(function() {
-    $("#hhh3").fadeTo("fast",1);
+    $("#cuadro3").mouseenter(function() {
+    $("#cuadro3").fadeTo("fast",1);
         });
-    $("#hhh3").mouseleave(function(){
-        $("#hhh3").fadeTo("fast",0.5)
+    $("#cuadro3").mouseleave(function(){
+        $("#cuadro3").fadeTo("fast",0.5)
         
         })
-    $("#hhh4").mouseenter(function() {
-    $("#hhh4").fadeTo("fast",1);
+    $("#cuadro4").mouseenter(function() {
+    $("#cuadro4").fadeTo("fast",1);
         });
-    $("#hhh4").mouseleave(function(){
-        $("#hhh4").fadeTo("fast",0.5)
+    $("#cuadro4").mouseleave(function(){
+        $("#cuadro4").fadeTo("fast",0.5)
         
         })
-    $("#hhh5").mouseenter(function() {
-    $("#hhh5").fadeTo("fast",1);
+    $("#cuadro5").mouseenter(function() {
+    $("#cuadro5").fadeTo("fast",1);
         });
-    $("#hhh5").mouseleave(function(){
-        $("#hhh5").fadeTo("fast",0.5)
+    $("#cuadro5").mouseleave(function(){
+        $("#cuadro5").fadeTo("fast",0.5)
         
         })
-    $("#hhh6").mouseenter(function() {
-    $("#hhh6").fadeTo("fast",1);
+    $("#cuadro6").mouseenter(function() {
+    $("#cuadro6").fadeTo("fast",1);
         });
-    $("#hhh6").mouseleave(function(){
-        $("#hhh6").fadeTo("fast",0.5)
+    $("#cuadro6").mouseleave(function(){
+        $("#cuadro6").fadeTo("fast",0.5)
         
         })
-    $("#hhh7").mouseenter(function() {
-    $("#hhh7").fadeTo("fast",1);
+    $("#cuadro7").mouseenter(function() {
+    $("#cuadro7").fadeTo("fast",1);
         });
-    $("#hhh7").mouseleave(function(){
-        $("#hhh7").fadeTo("fast",0.5)
+    $("#cuadro7").mouseleave(function(){
+        $("#cuadro7").fadeTo("fast",0.5)
         
         })
 
@@ -74,60 +74,60 @@ $(document).ready(function(){
   $("#name").click(function(){
 window.open("https://www.facebook.com/alf.uchiha.note.kira")
   });
- $('#hhh').mouseenter(function() {
-    $("#hhh").addClass('one');
+ $('#cuadro').mouseenter(function() {
+    $("#cuadro").addClass('one');
 
     });
-     $("#hhh").mouseleave(function(){
-        $("#hhh").toggleClass("one")
+     $("#cuadro").mouseleave(function(){
+        $("#cuadro").toggleClass("one")
         
         })
- $('#hhh2').mouseenter(function() {
-    $("#hhh2").addClass('one');
+ $('#cuadro2').mouseenter(function() {
+    $("#cuadro2").addClass('one');
 
     });
-     $("#hhh2").mouseleave(function(){
-        $("#hhh2").toggleClass("one")
+     $("#cuadro2").mouseleave(function(){
+        $("#cuadro2").toggleClass("one")
         
         })
- $('#hhh3').mouseenter(function() {
-    $("#hhh3").addClass('one');
+ $('#cuadro3').mouseenter(function() {
+    $("#cuadro3").addClass('one');
 
     });
-     $("#hhh3").mouseleave(function(){
-        $("#hhh3").toggleClass("one")
+     $("#cuadro3").mouseleave(function(){
+        $("#cuadro3").toggleClass("one")
         
         })
- $('#hhh4').mouseenter(function() {
-    $("#hhh4").addClass('one');
+ $('#cuadro4').mouseenter(function() {
+    $("#cuadro4").addClass('one');
 
     });
-     $("#hhh4").mouseleave(function(){
-        $("#hhh4").toggleClass("one")
+     $("#cuadro4").mouseleave(function(){
+        $("#cuadro4").toggleClass("one")
         
         })
- $('#hhh5').mouseenter(function() {
-    $("#hhh5").addClass('one');
+ $('#cuadro5').mouseenter(function() {
+    $("#cuadro").addClass('one');
 
     });
-     $("#hhh5").mouseleave(function(){
-        $("#hhh5").toggleClass("one")
+     $("#cuadro5").mouseleave(function(){
+        $("#cuadro5").toggleClass("one")
         
         })
- $('#hhh6').mouseenter(function() {
-    $("#hhh6").addClass('one');
+ $('#cuadro6').mouseenter(function() {
+    $("#cuadro6").addClass('one');
 
     });
-     $("#hhh6").mouseleave(function(){
-        $("#hhh6").toggleClass("one")
+     $("#cuadro6").mouseleave(function(){
+        $("#cuadro6").toggleClass("one")
         
         })
- $('#hhh7').mouseenter(function() {
-    $("#hhh7").addClass('one');
+ $('#cuadro7').mouseenter(function() {
+    $("#cuadro7").addClass('one');
 
     });
-     $("#hhh7").mouseleave(function(){
-        $("#hhh7").toggleClass("one")
+     $("#cuadro7").mouseleave(function(){
+        $("#cuadro7").toggleClass("one")
         
         })
     });
