@@ -28,46 +28,42 @@ color: #000000;
 
 .bodytwo{display: none;}
 
-#cuadro{background-color: #c90101;}
-#cuadro2{background-color: #c20dd8;}
-#cuadro3{background-color: #00c8e5;}
-#cuadro4{background-color: #00dd2f;}
-#cuadro5{background-color: #f65314;}
-#cuadro6{background-color: #003366;}
-
 p {line-height: 100px;
 font-family: "Times New Roman", Times, serif;
 }
 
-#cuadro7{
-display: none;
-background-color:#b81133;
+.cuadro7{
+    display: none;
     height: 20px;
     width: 1190px;
     border-radius: 10px;
     margin: 10px 10px 10px 50px;
 }
-body {
-background-color: #000000;}
 
-#name2 {
-margin: 30px 1px -60px 500px;
-color:#ffffff;
-text-shadow: 5px 5px 5px #FF0000;
-height: 30px;
+body p {
+    margin: 30px 1px -60px 500px;
+    color:#ffffff;
+    text-shadow: 5px 5px 5px #FF0000;
+    height: 30px;
     width: 650px;
     border-radius: 10px;
     display: inline-table;
     text-align:center;
     border-style: outset;
     border-color: #FFF;
+    -webkit-box-shadow: 0 0 8px #FFD700;
+    -moz-box-shadow: 0 0 8px #FFD700;
+    box-shadow: 0 0 8px #FFD700;
+    cursor:pointer;
 }
 img {
 margin: 30px 1px 1px 10px;
 }
+/*
 .one {
     -webkit-box-shadow: 0 0 8px #FFD700;
     -moz-box-shadow: 0 0 8px #FFD700;
     box-shadow: 0 0 8px #FFD700;
     cursor:pointer;
 }
+*/

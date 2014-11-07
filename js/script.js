@@ -122,12 +122,12 @@ window.open("https://www.facebook.com/alf.uchiha.note.kira")
         $("#cuadro6").toggleClass("one")
         
         })
- $('#cuadro7').mouseenter(function() {
-    $("#cuadro7").addClass('one');
+ $('.cuadro7').mouseenter(function() {
+    $(".cuadro7").addClass('one');
 
     });
-     $("#cuadro7").mouseleave(function(){
-        $("#cuadro7").toggleClass("one")
+     $(".cuadro7").mouseleave(function(){
+        $(".cuadro7").toggleClass("one")
         
         })
     });
