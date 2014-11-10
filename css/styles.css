@@ -30,6 +30,7 @@ color: #000000;
 
 p {line-height: 100px;
 font-family: "Times New Roman", Times, serif;
+
 }
 
 .cuadro7{
@@ -66,4 +67,9 @@ margin: -10px 1px 1px 50px;
 }
 audio {
     margin: 50px 1px 1px 50px;
+}
+body {
+background-repeat: no-repeat;
+background-size: 100%;
+
 }

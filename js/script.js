@@ -7,49 +7,49 @@ $(document).ready(function(){
         $("#cuadro").fadeTo("fast",1);
         });
     $("#cuadro").mouseleave(function(){
-        $("#cuadro").fadeTo("fast",0.5)
+        $("#cuadro").fadeTo("fast",0.8)
         
         })
     $("#cuadro2").mouseenter(function() {
     $("#cuadro2").fadeTo("fast",1);
         });
     $("#cuadro2").mouseleave(function(){
-        $("#cuadro2").fadeTo("fast",0.5)
+        $("#cuadro2").fadeTo("fast",0.8)
         
         })
     $("#cuadro3").mouseenter(function() {
     $("#cuadro3").fadeTo("fast",1);
         });
     $("#cuadro3").mouseleave(function(){
-        $("#cuadro3").fadeTo("fast",0.5)
+        $("#cuadro3").fadeTo("fast",0.8)
         
         })
     $("#cuadro4").mouseenter(function() {
     $("#cuadro4").fadeTo("fast",1);
         });
     $("#cuadro4").mouseleave(function(){
-        $("#cuadro4").fadeTo("fast",0.5)
+        $("#cuadro4").fadeTo("fast",0.8)
         
         })
     $("#cuadro5").mouseenter(function() {
     $("#cuadro5").fadeTo("fast",1);
         });
     $("#cuadro5").mouseleave(function(){
-        $("#cuadro5").fadeTo("fast",0.5)
+        $("#cuadro5").fadeTo("fast",0.8)
         
         })
     $("#cuadro6").mouseenter(function() {
     $("#cuadro6").fadeTo("fast",1);
         });
     $("#cuadro6").mouseleave(function(){
-        $("#cuadro6").fadeTo("fast",0.5)
+        $("#cuadro6").fadeTo("fast",0.8)
         
         })
-    $("#cuadro7").mouseenter(function() {
-    $("#cuadro7").fadeTo("fast",1);
+    $(".cuadro7").mouseenter(function() {
+    $(".cuadro7").fadeTo("fast",1);
         });
-    $("#cuadro7").mouseleave(function(){
-        $("#cuadro7").fadeTo("fast",0.5)
+    $(".cuadro7").mouseleave(function(){
+        $(".cuadro7").fadeTo("fast",0.8)
         
         })
 
