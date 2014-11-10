@@ -107,7 +107,7 @@ window.open("https://www.facebook.com/alf.uchiha.note.kira")
         
         })
  $('#cuadro5').mouseenter(function() {
-    $("#cuadro").addClass('one');
+    $("#cuadro5").addClass('one');
 
     });
      $("#cuadro5").mouseleave(function(){
@@ -130,4 +130,17 @@ window.open("https://www.facebook.com/alf.uchiha.note.kira")
         $(".cuadro7").toggleClass("one")
         
         })
+
+      $('.bodytwo').mouseenter(function() {
+       $(this).animate({
+           height: '+=70px'
+       });
+   });
+   $('.bodytwo').mouseleave(function() {
+       $(this).animate({
+           height: '-=100px'
+       }); 
+   });
+
+
     });
